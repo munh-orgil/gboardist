@@ -1,0 +1,8 @@
+logs/
+resource/
+vendor/
+.idea/
+
+main
+__debug_bin
+tmp/
